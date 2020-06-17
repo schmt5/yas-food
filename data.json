@@ -1,0 +1,97 @@
+[
+  {
+    "name": "Bolognaise",
+    "veggie": false,
+    "ingredients": ["pasta", "tomate", "hackfleisch"]
+  },
+  {
+    "name": "Ratatouille",
+    "veggie": true,
+    "ingredients": ["pasta", "tomate", "gemuese"]
+  },
+
+  {
+    "name": "Spinat Pasta",
+    "veggie": true,
+    "ingredients": ["pasta", "spinat", "cherry tomaten"]
+  },
+  {
+    "name": "Thon Pasta",
+    "veggie": false,
+    "ingredients": ["pasta", "thon", "kapern", "zwiebeln"]
+  },
+  {
+    "name": "Broccoli Pasta",
+    "veggie": true,
+    "ingredients": ["pasta", "rahm", "broccoli"]
+  },
+  {
+    "name": "Cinque Pi",
+    "veggie": true,
+    "ingredients": ["pasta", "rahm", "tomatenpueree", "parmesan", "petersilie"]
+  },
+  {
+    "name": "Alpenmakkaronie",
+    "veggie": false,
+    "ingredients": [
+      "pasta",
+      "kartoffel",
+      "rahm",
+      "speck",
+      "zwiebel",
+      "muskatnuss"
+    ]
+  },
+  {
+    "name": "Pasta Lauch Speck",
+    "veggie": false,
+    "ingredients": ["pasta", "rahm", "lauch", "speck"]
+  },
+  {
+    "name": "Champignon Pasta",
+    "veggie": true,
+    "ingredients": ["pasta", "rahm", "champignon"]
+  },
+  {
+    "name": "Chorizo Pasta",
+    "veggie": false,
+    "ingredients": ["pasta", "rahm", "chorizo"]
+  },
+  {
+    "name": "Carbonare",
+    "veggie": false,
+    "ingredients": ["pasta", "rahm", "ei", "speck"]
+  },
+  {
+    "name": "Carbonare Vegi",
+    "veggie": true,
+    "ingredients": ["pasta", "rahm", "ei", "champignon"]
+  },
+  {
+    "name": "Zuccetti Pasta",
+    "veggie": true,
+    "ingredients": ["pasta", "rahm", "zuccetti", "feta", "zitrone"]
+  },
+  {
+    "name": "Lachs Pasta",
+    "veggie": false,
+    "ingredients": ["pasta", "rahm", "lachs"]
+  },
+  {
+    "name": "Limone Pasta",
+    "veggie": true,
+    "ingredients": [
+      "pasta",
+      "rahm",
+      "zitrone",
+      "butter",
+      "petersilie",
+      "knoblauch"
+    ]
+  },
+  {
+    "name": "Spinat Shrimps Pasta",
+    "veggie": false,
+    "ingredients": ["pasta", "rahm", "spinat", "shrimps"]
+  }
+]
