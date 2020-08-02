@@ -11,3 +11,10 @@ h2{
     margin-bottom: 14px;
 
 }
+.header{
+    background-color: lightgrey;
+}
+.header p{
+    padding-top: 10px;
+    margin-left: 5px;
+}
